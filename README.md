@@ -1,0 +1,2 @@
+# IST
+Interview Sovcombank Technologies
